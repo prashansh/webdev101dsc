@@ -1,0 +1,49 @@
+/*
+//
+// SRM DSC #webdev101 | Introduction to CSS | Exercise 1: Getting started | Mary's little lamb
+//
+*/
+
+body{
+	font-family: Verdana;
+	color: #000000;
+	background: #fdf5e6;
+}
+
+p{
+	text-align: center;
+}
+
+h1{
+	font-family: Arial;
+	font-style: italic;
+	color: green;
+	background: yellow;
+}
+
+h2{
+	font-family: Courier;
+	font-style: bold;
+	color: yellow;
+	background: green;
+}
+
+h3{
+	font-family: Verdana;
+	font-size: 16pt;
+	color: white;
+	background: blue;
+}
+
+h4{
+	font-family: Comic Sans MS;
+	font-size: 20pt;
+	color: white;
+	background: black; 
+}
+
+h5{
+	font-family: Arial;
+	color:green;
+	font-style: bold;
+}
